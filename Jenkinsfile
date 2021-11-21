@@ -1,13 +1,6 @@
 pipeline {
     agent any
 
-    tools {
-
-    }
-    environment {
-      
-    }
-
     stages {
          stage('List of file') {
             steps {
